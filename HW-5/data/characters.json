@@ -1,0 +1,21 @@
+[   
+    {
+        "name":"Alaa",
+        "age":"23",
+        "photo":"https://imageio.forbes.com/specials-images/imageserve/5f64397931669e167fc57eaf//960x0.jpg?format=jpg&width=960",
+        "bio":"Doctor woking in othro department"
+    },
+    {
+        "name":"Amr",
+        "age":"25",
+        "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-VJxaFIy3CEl9egxp5FJ1Qgk5jrPM03s4A&s",
+        "bio":"Doctor woking in nero department"
+    },
+    {
+        "name":"Ahmad",
+        "age":"23",
+        "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrKhO81lwBpTySRIn6KqSSLNbiUA5s99aqWg&s",
+        "bio":"Doctor woking in cardio department"
+    }
+]
+
