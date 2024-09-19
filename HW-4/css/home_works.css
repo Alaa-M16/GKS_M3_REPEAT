@@ -235,10 +235,3 @@ h2 {
   font-size: 0.9em;
   color: #ccc;
 }
-
-@media (max-width: 768px) {
-  .characters_block {
-    flex-direction: column;
-    align-items: center;
-  }
-}
